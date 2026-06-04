@@ -452,7 +452,7 @@ export const recipes: Recipe[] = [
     steps: ['鸡胸肉切丁，用料酒和生抽腌制', '芦笋切段焯水1分钟', '鸡丁炒至变色盛出', '爆香蒜末，放入芦笋翻炒', '加入鸡丁，加盐调味翻炒均匀'],
   },
     {
-    id: 'b4',
+    id: 'b9',
     name: '无糖希腊酸奶水果碗',
     emoji: '🍓',
     category: 'breakfast',
@@ -467,7 +467,7 @@ export const recipes: Recipe[] = [
     steps: ['酸奶平铺碗底', '香蕉切片、草莓切块铺在酸奶上', '表面撒奇亚籽拌匀即可'],
   },
   {
-    id: 'b5',
+    id: 'b10',
     name: '玉米+卤鸡蛋+小黄瓜',
     emoji: '🌽',
     category: 'breakfast',
@@ -482,7 +482,7 @@ export const recipes: Recipe[] = [
     steps: ['玉米上锅隔水蒸8分钟', '鸡蛋水煮6分钟剥壳', '黄瓜洗净切段，全部装盘食用'],
   },
   {
-    id: 'b6',
+    id: 'b11',
     name: '豆腐蔬菜鸡蛋羹',
     emoji: '🥘',
     category: 'breakfast',
@@ -497,7 +497,7 @@ export const recipes: Recipe[] = [
     steps: ['豆腐压碎放入碗中，鸡蛋打散加等量温水搅匀过筛', '混合豆腐、西兰花碎封保鲜膜扎小孔', '水开上锅蒸12分钟，出锅淋少许生抽撒葱花'],
   },
   {
-    id: 'b7',
+    id: 'b12',
     name: '紫薯+无糖豆浆+水煮虾仁',
     emoji: '🍠',
     category: 'breakfast',
@@ -512,7 +512,7 @@ export const recipes: Recipe[] = [
     steps: ['紫薯洗净上锅蒸10分钟至软烂', '虾仁冷水下锅焯水2分钟捞出', '搭配热豆浆一起食用'],
   },
   {
-    id: 'b8',
+    id: 'b13',
     name: '全麦鸡蛋蔬菜三明治',
     emoji: '🥪',
     category: 'breakfast',
@@ -527,7 +527,7 @@ export const recipes: Recipe[] = [
     steps: ['鸡蛋少油煎成荷包蛋', '吐司单面小火烘脆', '一层吐司铺蔬菜、煎蛋、薄抹酱料，盖上另一片吐司对半切开'],
   },
   {
-    id: 'b9',
+    id: 'b14',
     name: '小米山药瘦肉粥',
     emoji: '🍲',
     category: 'breakfast',
@@ -542,7 +542,7 @@ export const recipes: Recipe[] = [
     steps: ['小米淘洗加水大火煮开转小火煮15分钟', '山药去皮切小丁、肉末下锅继续煮5分钟', '加盐调味，出锅撒葱花'],
   },
   {
-    id: 'b10',
+    id: 'b15',
     name: '荞麦鸡蛋煎饼',
     emoji: '🥞',
     category: 'breakfast',
@@ -557,7 +557,7 @@ export const recipes: Recipe[] = [
     steps: ['荞麦粉加水调成无颗粒稀面糊，打入鸡蛋搅匀', '加入蔬菜碎、少量盐拌匀', '平底锅少油，分次倒入面糊摊成薄饼两面煎熟'],
   },
   {
-    id: 'b11',
+    id: 'b16',
     name: '蒸贝贝南瓜+原味无糖酸奶+水煮鹌鹑蛋',
     emoji: '🎃',
     category: 'breakfast',
@@ -572,7 +572,7 @@ export const recipes: Recipe[] = [
     steps: ['南瓜整颗上锅蒸10分钟', '鹌鹑蛋水煮4分钟过凉剥壳', '南瓜切块搭配酸奶、鹌鹑蛋食用'],
   },
   {
-    id: 'b12',
+    id: 'b17',
     name: '菌菇鸡肉杂粮饭团',
     emoji: '🍙',
     category: 'breakfast',
@@ -587,7 +587,7 @@ export const recipes: Recipe[] = [
     steps: ['鸡胸肉切丁和香菇少油炒熟调味放凉', '杂粮饭摊开，包入馅料捏成圆形饭团，外包海苔'],
   },
   {
-    id: 'b13',
+    id: 'b18',
     name: '芦笋滑蛋+蒸芋头',
     emoji: '🥦',
     category: 'breakfast',
